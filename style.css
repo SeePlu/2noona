@@ -1,0 +1,16 @@
+.box {
+  width: 200px;
+  border: 50px solid red;
+  padding: 50px;
+
+  margin-bottom: 20px;
+}
+
+.green {
+    border-color:green;
+  visibility: hidden;
+  }
+  
+  .blue {
+    border-color:#2980b9;
+  }
